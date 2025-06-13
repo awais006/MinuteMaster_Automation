@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://staging.minute-master.com/login",
+    "email": "awaism826@gmail.com",
+    "password": "Nothing-11",
+    "invalidEmail": "user@user.com",
+    "invalidPassword": "InvalidPassword"
+  }
